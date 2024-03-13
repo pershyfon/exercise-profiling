@@ -15,3 +15,12 @@ Kelas: Adpro-B
 
 **highest-gpa request**
 ![img_2.png](src/main/resources/image/img_2.png)
+
+**all-student request CLI**
+![img.png](src/main/resources/image/img_3.png)
+
+**all-student-name request CLI**
+![img_1.png](src/main/resources/image/img_4.png)
+
+**highest-gpa request CLI**
+![img_2.png](src/main/resources/image/img_5.png)
